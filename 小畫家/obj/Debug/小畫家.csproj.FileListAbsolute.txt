@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\bin\Debug\小畫家.exe.config
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\bin\Debug\小畫家.exe
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\bin\Debug\小畫家.pdb
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\obj\Debug\小畫家.csprojAssemblyReference.cache
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\obj\Debug\小畫家.From1.resources
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\obj\Debug\小畫家.Properties.Resources.resources
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\obj\Debug\小畫家.csproj.GenerateResource.cache
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\obj\Debug\小畫家.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\obj\Debug\小畫家.exe
+C:\Users\user\Desktop\作品\c#\小畫家\小畫家\obj\Debug\小畫家.pdb
